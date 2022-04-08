@@ -19,7 +19,7 @@ This project was forked from [rbenv](https://github.com/rbenv/rbenv) and
 * Let you **change the global Python version** on a per-user basis.
 * Provide support for **per-project Python versions**.
 * Allow you to **override the Python version** with an environment
-  variable.
+  variable and see.
 * Search commands from **multiple versions of Python at a time**.
   This may be helpful to test across Python versions with [tox](https://pypi.python.org/pypi/tox).
 
